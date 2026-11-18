@@ -1,0 +1,4 @@
+node_modules/
+hotel.db
+hotel.db-*
+.env
